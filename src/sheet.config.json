@@ -1,0 +1,6 @@
+{
+  "fileName": "test.xlsx",
+  "sheetNames": ["Chapter 3", "Chapter 3", "Chapter 5"],
+  "kanjiColumn": "A",
+  "kanaColumn": "B"
+}
